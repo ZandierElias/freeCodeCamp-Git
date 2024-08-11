@@ -1,2 +1,3 @@
-# freeCodeCamp-Git
-repositorio github curso de freecodecamp 
+# Mi primer README
+
+repositorio github curso de freecodecamp
